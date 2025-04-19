@@ -55,7 +55,7 @@ export default function NoteCard({ note, onDelete, onUpdate }: NoteCardProps) {
         id: note.id,
         content: editedContent,
         ai_response: completion || "",
-        ai_style: aiStyle.name,
+        ai_style: aiStyle?.name ?? "",
       });
     }
     setShowResult(false);
