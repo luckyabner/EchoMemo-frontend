@@ -23,6 +23,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="zh-CN" data-theme="cupcake">
+      <head>
+        <script
+          defer
+          src="https://cloud.umami.is/script.js"
+          data-website-id="98c4cf7c-b9aa-4149-acec-60e03a68f9b3"
+        ></script>
+      </head>
       <body
         className={`${comfortaa.variable} m-auto flex min-h-screen flex-col antialiased`}
       >
