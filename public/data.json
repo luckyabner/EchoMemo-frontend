@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6",
+    "uid": "1",
+    "content": "Hello World !",
+    "create_time": "2025-04-14T15:33:20.604Z",
+    "update_time": ""
+  },
+  {
+    "id": "3",
+    "uid": "1",
+    "content": "这是EchoMemo的一个示例笔记，用于展示EchoMemo的基本功能。你可以在这里记录你的想法。",
+    "create_time": "2025-04-14T13:31:10.407Z",
+    "update_time": ""
+  },
+  {
+    "id": "4",
+    "uid": "1",
+    "content": "今天是2025年4月14日，是一个美好的日子。",
+    "create_time": "2025-04-14 13:31:10",
+    "update_time": ""
+  },
+  {
+    "id": "5",
+    "uid": "1",
+    "content": "你好，世界！",
+    "create_time": "2025-04-14T13:34:10.407Z",
+    "update_time": ""
+  }
+]
